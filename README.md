@@ -1,5 +1,5 @@
-## Easy Notes
-# Easy Notes is a cross-device note-saving app we’ve built!
+# Easy Notes
+## Easy Notes is a cross-device note-saving app we’ve built!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
