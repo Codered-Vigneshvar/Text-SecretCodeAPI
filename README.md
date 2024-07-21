@@ -8,8 +8,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 Easy Notes is a full-stack application that allows users to create, read, update, and delete notes. The frontend is built with React, and the backend is powered by Flask with PostgreSQL as the database.
 
